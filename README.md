@@ -20,7 +20,7 @@
 ## 🧑 About me:
   <p><b>Email:</b> uros.s037@gmail.com</p>
     <p><b>Skype:</b> live:.cid.dce37b0c34022cfd</p>
-  <p><b>Telegram:</b> @hidevteam</p>
+  <p><b>Telegram:</b> @uross037</p>
 
 <h2>🥇 Specialised in:</h2>
 <p>🔸 FrontEnd - React.js, React-Native, Vue.js, AngularJS, NextJS, NuxtJs, Fabric.Js, Three.Js etc
